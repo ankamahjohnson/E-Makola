@@ -1,5 +1,5 @@
 # E-Makola 
-A fully functional e-commerce web app with Paystack API integration built to sell gadgets to millennials and Gen-Z consumers across Africa, featuring a complete shopping cart system, live payment method (Momo & Banking visa card), dark/light mode, and persistent data using localStorage
+A fully functional e-commerce web app with Paystack API integration built to sell gadgets to millennials and Gen-Z consumers across Africa, featuring a complete shopping cart system, live payment method (Momo & Banking visa card), dark/light mode, and persistent data using localStorage.
 
 
 ## Live Demo
@@ -40,14 +40,15 @@ https://ankamahjohnson.github.io/E-Makola/
 - Order summary modal after payment (shows customer name, items & quantities)
 - "OK" button clears cart and resets the experience
 
-### 🎨 User Experience & Polish
+### 🎨 User Experience & Polish UI
 - Beautiful landing page with four structured sections
 - Toast notifications for every action (add to cart, remove, success, etc.)
 - Dark and Light mode toggle with localStorage persistence
 - All modals close when clicking on the overlay
-- Fully responsive design (mobile-first)
+
   
 ### 📱 Responsiveness
+- Fully responsive design (mobile-first)
 - Optimized mobile experience with vertical stacking
 - Clean grid layout on tablets and desktops
 - Fully functional across all screen sizes
