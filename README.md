@@ -61,4 +61,8 @@ https://ankamahjohnson.github.io/E-Makola/
 <img src="https://img.shields.io/badge/localStorage-API-orange?style=for-the-badge" />
 
 ## 📝
+> Note: This project uses a client-side API key for 
+> demonstration purposes. A production version would 
+> proxy requests through a backend server.
+
 Made with ❤️ as a frontend practice project.
