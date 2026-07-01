@@ -26,7 +26,7 @@ https://ankamahjohnson.github.io/E-Makola/
   - Dynamic price updates based on quantity
   - Automatic subtotal calculation
 
-### 💰 Checkout & Payment
+### 💰 Checkout & Payment System 
 - User details form with robust validation (name, email, phone)
 - Shipping calculator with regional rates
 - Dynamic subtotal, shipping fee, and grand total calculation
