@@ -48,7 +48,7 @@ https://ankamahjohnson.github.io/E-Makola/
 
   
 ### 📱 Responsiveness
-- Fully responsive design (mobile-first)
+- Fully responsive design
 - Optimized mobile experience with vertical stacking
 - Clean grid layout on tablets and desktops
 - Fully functional across all screen sizes
