@@ -65,4 +65,4 @@ https://ankamahjohnson.github.io/E-Makola/
 > demonstration purposes. A production version would 
 > proxy requests through a backend server.
 
-Made with ❤️ as a frontend practice project.
+
