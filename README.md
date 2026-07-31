@@ -13,7 +13,7 @@ https://ankamahjohnson.github.io/E-Makola/
 - Real-time search bar that filters products instantly
 - Category filter buttons
 - Star ratings displayed on every product card
-- Product detail modal with full description and rating
+- Product detail modal with full description & rating
 
 ### 🛒 Shopping Cart System
 - Add products to cart with a single click
